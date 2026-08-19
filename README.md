@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Ohayo 👋</h1>
-  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6N2h1eHV4Nzdqcm15eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp9rYyW1i6Y/giphy.gif" alt="Hunter x Hunter" width="500px" />
+  src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZycDVjMnc4cXYzZWZmZ2duaDJqc3Y2bTk0Mmo0enI0dGk5bjVleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yZWsMXuXP9e5a/giphy.gif" alt="Hunter x Hunter" width="500px" />
 </div>
 
 <br/>
