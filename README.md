@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Ohayo 👋</h1>
-  <img src="https://media.giphy.com/media/y3xeaTCoC5Y7k1XjW6/giphy.gif" style="width: 100%; max-width: 600px;" alt="Hunter x Hunter Gon e Killua" />
+  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6N2h1eHV4Nzdqcm15eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp9rYyW1i6Y/giphy.gif" alt="Hunter x Hunter" width="500px" />
 </div>
 
 <br/>
