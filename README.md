@@ -6,11 +6,10 @@
 # ***<div align="center">Ohayo! :wave: </div>***  
   
 
-- I'm currently working on college projects and personal ideas  
+- I'm a Computer Science student  
   
-
-- I'm currently learning Docker, PowerBi, Kubernetes, C#, Linux, Node.js, MySQL, Spring  
   
+- I'm currently working on college projects and personal ideas   
 
 - ⚡ Fun fact: I use tabs over spaces. and coffee all the time, by the way ☕  
   
