@@ -3,7 +3,9 @@
 </div>  
   
 
-# ***<div align="center">Ohayo :wave: </div>***  
+# ***<div align="center">Ohayo! :wave: 
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Y4Nmp0eWx3cGxvYmJkcjByeTgxdWJoOG1icThvaTJzcnU3dm5udSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M4hVSYsq6KULTTe7dr/giphy.gif
+</div>***  
   
 
 - I'm currently working on college projects and personal ideas  
