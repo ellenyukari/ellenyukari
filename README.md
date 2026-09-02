@@ -3,7 +3,7 @@
 </div>  
   
 
-# ***<div align="center">I'm a Computer Science student</div>***  
+# ***<div align="center">Ohayo :wave: </div>***  
   
 
 - I'm currently working on college projects and personal ideas  
