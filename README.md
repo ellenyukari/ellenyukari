@@ -3,7 +3,7 @@
 </div>  
   
 
-# ***<div align="center">Ohayo! :wave: </div>***  
+# ***<div align="center">Konichiwa! :wave: </div>***  
   
 
 - I'm a Computer Science student  
