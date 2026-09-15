@@ -16,9 +16,12 @@
 ### - I'm 22 years  old Machine Learning & Artificial Intelligence Enthusiast from Brasil.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJjZmo4dW11c25lZG95dHV5bm1yYTdnMHM3Y2dkMDVjOWw1ajV1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7TTgV830a3luvc0FbJ/giphy.gif">
+
 </br>
+</br>
+</br>
+
 - I'm a Computer Science student  
-  
 - I'm currently working on college projects and personal ideas    
   
 
