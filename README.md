@@ -1,7 +1,9 @@
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRicTN0YWk5MGsyd3dwcHFoc21ucjk4MWplMG11NDBqbXg0ZmtydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UxBrDCprihOSTfAIZM/giphy.gif"
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
+
+
 
 # ***<div align="center">Konichiwa! :wave: </div>*** 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRicTN0YWk5MGsyd3dwcHFoc21ucjk4MWplMG11NDBqbXg0ZmtydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UxBrDCprihOSTfAIZM/giphy.gif">
