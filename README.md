@@ -18,9 +18,7 @@
 - I'm a Computer Science student  
   
   
-- I'm currently working on college projects and personal ideas   
-
-- ⚡ Fun fact: I use tabs over spaces. and coffee all the time, by the way ☕  
+- I'm currently working on college projects and personal ideas    
   
 
 <br/>  
