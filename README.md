@@ -5,6 +5,14 @@
 
 # ***<div align="center">Konichiwa! :wave: </div>*** 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFlMzg3YXZzZG9yZzBvYXVnaDRxa3Bha3JqNGFyaG5pOG1wd3MxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M4hVSYsq6KULTTe7dr/giphy.gif" alt="gif do The Boy">
+</br>
+</br>
+</br>
+
+
+# About ME:
+
+### - I'm 22 years  old Machine Learning & Artificial Intelligence Enthusiast from Brasil.
   
 
 - I'm a Computer Science student  
