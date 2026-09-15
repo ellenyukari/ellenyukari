@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src=https://media1.tenor.com/m/oWRzl58x2YkAAAAd/spy-x-family-spy-family.gif 
+<img hight="300" width="700" alt="GIF" align="center" src="https://rishavanand.github.io/static/images/greetings.gif"
 </div>  
   
 
