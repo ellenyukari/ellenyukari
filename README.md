@@ -22,8 +22,10 @@
 - I'm currently working on college projects and personal ideas    
   
 
-<br/>  
+<br/> 
+
 </br>
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
