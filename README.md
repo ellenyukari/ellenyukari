@@ -22,7 +22,13 @@
 </br>
 
 - I'm a Computer Science student  
-- I'm currently working on college projects and personal ideas    
+- I'm currently working on college projects and personal ideas
+
+### - Hobbies : 
+-   Gaming Addict
+-   Watching Anime
+-   Drawing
+-   Reading
 
 </br>
 </br>
