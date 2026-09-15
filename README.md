@@ -44,9 +44,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="25" /></a> 
-<img style="margin: 10px" src="https://cdn.simpleicons.org/windows" alt="PC" height="25"/>
-<img style="margin: 10px" src="https://cdn.simpleicons.org/visualstudiocode" alt="Visual Studio Code" height="25"/>
-<img style="margin: 10px" src="https://cdn.simpleicons.org/openai" alt="AI" height="25"/>
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=windows,vscode,tensorflow" height="25"/>
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="25" /></a>  
 </div>  
 
