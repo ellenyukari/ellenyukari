@@ -1,11 +1,11 @@
 <div align="center">
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://rishavanand.github.io/static/images/greetings.gif"
+<img hight="300" width="700" alt="GIF" align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRicTN0YWk5MGsyd3dwcHFoc21ucjk4MWplMG11NDBqbXg0ZmtydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UxBrDCprihOSTfAIZM/giphy.gif"
 </div>  
   
 
 # ***<div align="center">Konichiwa! :wave: </div>*** 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFlMzg3YXZzZG9yZzBvYXVnaDRxa3Bha3JqNGFyaG5pOG1wd3MxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M4hVSYsq6KULTTe7dr/giphy.gif" alt="gif do The Boy">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRicTN0YWk5MGsyd3dwcHFoc21ucjk4MWplMG11NDBqbXg0ZmtydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UxBrDCprihOSTfAIZM/giphy.gif">
 </br>
 </br>
 </br>
