@@ -23,9 +23,6 @@
 
 - I'm a Computer Science student  
 - I'm currently working on college projects and personal ideas    
-  
-
-<br/> 
 
 </br>
 </br>
