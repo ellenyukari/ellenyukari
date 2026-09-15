@@ -21,8 +21,9 @@
 </br>
 </br>
 
-- I'm a Computer Science student  
+- I'm a Computer Science student
 - I'm currently working on college projects and personal ideas
+- Passionate about gaming, anime, and the tech world
 
 
 </br>
