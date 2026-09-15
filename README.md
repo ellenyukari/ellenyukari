@@ -34,6 +34,9 @@
 </br>
 </br>
 
+
+
+
 ## Languages and Tools
 <div align="center">
 
@@ -44,12 +47,12 @@
 <img src="https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/WordPress-1a1a2e?style=for-the-badge&logo=wordpress&logoColor=21759B"/>
-<img src="https://img.shields.io/badge/Power%20BI-1a1a2e?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
 <img src="https://img.shields.io/badge/Kotlin-1a1a2e?style=for-the-badge&logo=kotlin&logoColor=7F52FF"/>
-<img src="https://img.shields.io/badge/PC-1a1a2e?style=for-the-badge&logo=windows&logoColor=0078D6"/>
+<img src="https://img.shields.io/badge/PC-1a1a2e?style=for-the-badge&logo=windows11&logoColor=0078D6"/>
 <img src="https://img.shields.io/badge/VS%20Code-1a1a2e?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
 <img src="https://img.shields.io/badge/AI-1a1a2e?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
 
+</div>
 </div>
 
 
