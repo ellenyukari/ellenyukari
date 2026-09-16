@@ -40,17 +40,27 @@
 ## Languages and Tools
 <div align="center">
 
-<img src="https://img.shields.io/badge/Bootstrap-1a1a2e?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
-<img src="https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/WordPress-1a1a2e?style=for-the-badge&logo=wordpress&logoColor=21759B"/>
-<img src="https://img.shields.io/badge/Kotlin-1a1a2e?style=for-the-badge&logo=kotlin&logoColor=7F52FF"/>
-<img src="https://img.shields.io/badge/PC-1a1a2e?style=for-the-badge&logo=windows11&logoColor=0078D6"/>
-<img src="https://img.shields.io/badge/VS%20Code-1a1a2e?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/AI-1a1a2e?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+
+<img width="100" height="32" alt="image" src="https://github.com/user-attachments/assets/1df93128-0a1f-4707-81ee-59c50b92cb05" />
+<img width="92" height="32" alt="image" src="https://github.com/user-attachments/assets/125cd81b-7b7a-40f7-88c1-ca74a9dd9fff" />
+<img width="130" height="32" alt="image" src="https://github.com/user-attachments/assets/4bbb1649-97e1-4785-af86-65bdf8c5f6ee" />
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/python.png" height="32" alt="Python" />
+<br>
+<img width="192" height="32" alt="image" src="https://github.com/user-attachments/assets/4e695860-6963-4817-b2fb-7cb4e32ac1a9" />
+<br>
+<img width="86" height="32" alt="image" src="https://github.com/user-attachments/assets/486e55a1-e60e-4405-a3ba-5fe608a6c2a2" />
+<img width="138" height="32" alt="image" src="https://github.com/user-attachments/assets/69453ca1-3668-45de-b857-ea4c6e5a8a50" />
+<img width="80" height="32" alt="image" src="https://github.com/user-attachments/assets/a9c4bfca-3253-4e2e-b30a-64341c0b901b" />
+
+
+
+
+
+
+
+
+
+
 
 </div>
 </div>
