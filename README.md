@@ -25,6 +25,7 @@
 - I'm currently working on college projects and personal ideas
 - Passionate about gaming, anime, and the tech world
 - Studying more about Kotlin and Python.
+- connect with me in my Linkedln
 
 
 </br>
