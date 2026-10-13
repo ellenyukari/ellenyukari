@@ -26,7 +26,8 @@
 - Passionate about gaming, anime, and the tech world
 - Studying more about Kotlin and Python.
 - Connect with me in my Linkedln
-- German and Japanese descent! I'm fluent in English
+- German and Japanese descent!
+- I'm fluent in English
 
 
 </br>
